@@ -1,0 +1,33 @@
+This is an example text file for testing the MCP keyword search server.
+The word example appears multiple times in this document.
+We can search for various keywords like: server, testing, search, and more.
+
+Example with a capital E at the beginning.
+Another EXAMPLE in all caps.
+The example keyword is case-insensitive by default.
+
+Here are some technical terms:
+- MCP stands for Model Context Protocol
+- Server architecture and implementation
+- Keyword matching algorithms
+- File system operations
+
+This file contains enough content to test:
+1. Multiple matches on the same line: example example example
+2. Matches across different lines
+3. Case sensitivity testing
+4. Special characters and punctuation: example! example? example.
+
+The search functionality should return:
+- Line numbers where matches are found
+- The actual line content
+- Position indices of each match
+- Total count of all matches
+
+Testing edge cases:
+- Empty lines
+
+- Lines with only whitespace
+- Very long lines with multiple keyword occurrences: The example shows that example matching works when example appears multiple times.
+
+End of test file with one more example.
