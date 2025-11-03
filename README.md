@@ -464,13 +464,8 @@ in the Software without restriction...
 
 ---
 
-## 📞 Contact & Support
 
-- **GitHub Issues:** [Report a bug or request a feature](https://github.com/YOUR-USERNAME/mcp-keyword-search-server/issues)
-- **Discussions:** [Join the conversation](https://github.com/YOUR-USERNAME/mcp-keyword-search-server/discussions)
-- **Email:** your.email@example.com
 
----
 
 ## 🎯 Assignment Submission
 
