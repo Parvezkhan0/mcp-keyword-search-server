@@ -36,7 +36,7 @@ This MCP server provides a powerful keyword search capability that allows client
 - **Total match count** across the entire file
 - **Case-sensitive and case-insensitive** search modes
 
-Built using the official Model Context Protocol SDK, this server is fully compliant with MCP standards and can be easily integrated into any MCP-compatible client application.
+Built using the official Model Context Protocol SDK, this server is fully compliant with MCP standards & can be easily integrated into any MCP-compatible client application.
 
 ---
 
